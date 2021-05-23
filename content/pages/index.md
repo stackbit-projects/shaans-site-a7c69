@@ -2,7 +2,7 @@
 title: Home
 hide_title: true
 sections:
-  - section_id: hero
+  - section_id: rrr
     type: section_hero
     title: 'Product Manager, based in London'
     content: >-
